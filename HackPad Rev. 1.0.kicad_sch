@@ -4,6 +4,13 @@
 	(generator_version "8.0")
 	(uuid "f82c5bd4-5497-4e6a-97ea-7da818d7cc89")
 	(paper "A4")
+	(title_block
+		(title "HackPad")
+		(date "2024-10-10")
+		(rev "1.0")
+		(company "Hack Club")
+		(comment 1 "Matthew Chen for")
+	)
 	(lib_symbols
 		(symbol "Device:D"
 			(pin_numbers hide)
@@ -1669,15 +1676,6 @@
 			(type default)
 		)
 		(uuid "4b4af04a-98d1-4ba8-a494-a495fea2d44e")
-	)
-	(bus_entry
-		(at 166.37 90.17)
-		(size 2.54 2.54)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "92dc0f6f-c10f-4b05-9084-e6ab9fd21b50")
 	)
 	(bus_entry
 		(at 203.2 72.39)
